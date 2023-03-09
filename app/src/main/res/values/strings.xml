@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealTimeExample</string>
+    <string name="name">Name User</string>
+    <string name="number">User Number</string>
+</resources>
